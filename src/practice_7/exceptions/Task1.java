@@ -6,10 +6,8 @@ import java.io.IOException;
 
 public class Task1 {
     public static void main(String[] args) {
-        BufferedReader reader = null;
         String line;
-        try {
-            reader = new BufferedReader(new FileReader("src/practice_7/exceptions/data.txt"));
+        try (BufferedReader reader = new BufferedReader(new FileReader("src/practice_7/exceptions/data.txt"))) {
             while ((line = reader.readLine()) != null) {
                 System.out.println(line);
             }

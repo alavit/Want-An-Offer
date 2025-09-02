@@ -9,11 +9,12 @@ public class Task2 {
         int num1 = scanner.nextInt();
         System.out.print("Enter second number: ");
         int num2 = scanner.nextInt();
-        try {
+
+        if (num2 == 0) {
+            System.err.println("Division by zero is not allowed");
+        } else {
             System.out.println(num1 / num2);
         }
-        catch (ArithmeticException e) {
-            System.err.println("Dvision by zero is not allowed");
-        }
+        scanner.close();
     }
 }
