@@ -1,11 +1,11 @@
-package main.java.practice_8.part_1;
+package practice_8.part_1;
 
 @FunctionalInterface
-public interface Predicate<Integer> {
-    boolean check(Integer number);
+public interface MyPredicate<Integer> {
+    boolean isEven(Integer number);
 
     default void printIfEven(Integer number) {
-        if (check(number)) {
+        if (isEven(number)) {
             System.out.println(number + " is even");
         }
     }
