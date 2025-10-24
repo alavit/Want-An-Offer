@@ -1,4 +1,4 @@
-package main.java.practice_7.generics;
+package practice_7.generics;
 
 import java.util.ArrayList;
 

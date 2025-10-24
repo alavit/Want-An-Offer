@@ -1,4 +1,4 @@
-package main.java.practice_4.break_continue;
+package practice_4.break_continue;
 
 public class Task2 {
     public static void main(String[] args) {

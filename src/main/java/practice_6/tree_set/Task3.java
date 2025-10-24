@@ -1,4 +1,4 @@
-package main.java.practice_6.tree_set;
+package practice_6.tree_set;
 
 import java.util.Scanner;
 import java.util.TreeSet;

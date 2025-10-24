@@ -1,4 +1,4 @@
-package main.java.practice_4.while_loop;
+package practice_4.while_loop;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package main.java.practice_6.array_list;
+package practice_6.array_list;
 
 import java.util.*;
 

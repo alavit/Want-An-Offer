@@ -1,4 +1,4 @@
-package main.java.practice_4.do_while;
+package practice_4.do_while;
 
 public class Task3 {
     public static void main(String[] args) {

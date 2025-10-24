@@ -1,4 +1,4 @@
-package main.java.practice_3;
+package practice_3;
 
 public class LibraryTest {
     public static void main(String[] args) {

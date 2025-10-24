@@ -1,4 +1,4 @@
-package main.java.practice_4.switchTasks;
+package practice_4.switchTasks;
 
 import java.util.Scanner;
 

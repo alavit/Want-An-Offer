@@ -1,4 +1,4 @@
-package main.java.practice_9.task_2;
+package practice_9.task_2;
 
 public class ThreadPrint implements Runnable {
     private final String message;

@@ -1,4 +1,4 @@
-package main.java.practice_2;
+package practice_2;
 
 class Rectangle {
     int width;

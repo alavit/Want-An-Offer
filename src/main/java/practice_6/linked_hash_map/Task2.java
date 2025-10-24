@@ -1,4 +1,4 @@
-package main.java.practice_6.linked_hash_map;
+package practice_6.linked_hash_map;
 
 import java.util.LinkedHashMap;
 import java.util.Scanner;

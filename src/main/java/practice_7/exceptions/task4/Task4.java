@@ -1,6 +1,6 @@
-package main.java.practice_7.exceptions.task4;
+package practice_7.exceptions.task4;
 
-import main.java.practice_7.exceptions.exceptions.InvalidEmailAddressException;
+import practice_7.exceptions.exceptions.InvalidEmailAddressException;
 import java.util.regex.Pattern;
 
 public class Task4 {

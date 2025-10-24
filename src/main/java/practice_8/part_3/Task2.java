@@ -1,4 +1,4 @@
-package main.java.practice_8.part_3;
+package practice_8.part_3;
 
 import java.util.Arrays;
 import java.util.List;

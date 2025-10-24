@@ -1,4 +1,4 @@
-package main.java.practice_4.conditional;
+package practice_4.conditional;
 
 /*Задача:
         Напишите программу, которая проверяет, является ли введённое число чётным или нечётным.

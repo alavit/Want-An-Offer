@@ -1,4 +1,4 @@
-package main.java.practice_4.switchTasks;
+package practice_4.switchTasks;
 
 /*Задача:
 Определите стоимость билета в кино:

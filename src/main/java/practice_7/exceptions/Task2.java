@@ -1,4 +1,4 @@
-package main.java.practice_7.exceptions;
+package practice_7.exceptions;
 
 import java.util.Scanner;
 

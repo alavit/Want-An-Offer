@@ -1,8 +1,8 @@
-package main.java.practice_7.exceptions.task4;
+package practice_7.exceptions.task4;
 
 import java.util.Scanner;
 
-import static main.java.practice_7.exceptions.task4.Task4.validateEmailAddress;
+import static practice_7.exceptions.task4.Task4.validateEmailAddress;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.practice_6.array_deque;
+package practice_6.array_deque;
 
 import java.util.ArrayDeque;
 

@@ -1,6 +1,6 @@
-package main.java.practice_7.exceptions.task3;
+package practice_7.exceptions.task3;
 
-import main.java.practice_7.exceptions.exceptions.InvalidUserAgeException;
+import practice_7.exceptions.exceptions.InvalidUserAgeException;
 
 public class Task3 {
     public static void validateUserAge(int userAge) throws InvalidUserAgeException {

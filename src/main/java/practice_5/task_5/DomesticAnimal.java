@@ -1,4 +1,4 @@
-package main.java.practice_5.task_5;
+package practice_5.task_5;
 
 abstract public class DomesticAnimal {
     abstract void produce();

@@ -1,4 +1,4 @@
-package main.java.practice_6.linked_list;
+package practice_6.linked_list;
 
 import java.util.LinkedList;
 import java.util.List;

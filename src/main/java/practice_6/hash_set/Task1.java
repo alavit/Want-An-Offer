@@ -1,4 +1,4 @@
-package main.java.practice_6.hash_set;
+package practice_6.hash_set;
 
 import java.util.HashSet;
 import java.util.Set;
